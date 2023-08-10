@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Александр Авилов](https://up.htmlacademy.ru/ecmascript/21/user/1943159).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
